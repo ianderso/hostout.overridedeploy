@@ -1,0 +1,6 @@
+[zc.buildout]
+default = hostout.overridedeploy:Recipe
+
+[fabric]
+fabfile = hostout.overridedeploy.fabfile
+

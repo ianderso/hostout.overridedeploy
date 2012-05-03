@@ -1,0 +1,3 @@
+zc.recipe.egg
+setuptools
+collective.hostout>=1.0a5

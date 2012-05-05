@@ -8,7 +8,7 @@ def read(*rnames):
 name = "hostout.overridedeploy"
 setup(
     name=name,
-    version="1.0",
+    version="1.0.1",
     author="Anderson Leeb Inc",
     author_email="admin@andersonleeb.com",
     description="""override default deploy of hostout""",

@@ -18,7 +18,7 @@ setup(
     long_description=(
         read('README.txt')
         + '\n' +
-        #read('hostout', 'overridedeploy', 'README.txt')
+        #read('hostout', 'overridedeploy', 'README.md')
         #+ '\n' +
         read('CHANGES.txt')
         + '\n'

@@ -14,9 +14,9 @@ setup(
     description="""override default deploy of hostout""",
     license="GPL",
     keywords="buildout, fabric, deploy, deployment, server, plone, django, host, hosting",
-    url='https://svn.andersonleeb.com/' + name,
+    url='https://github.com/ianderso/hostout.overridedeploy' + name,
     long_description=(
-        read('README.txt')
+        read('README.md')
         + '\n' +
         #read('hostout', 'overridedeploy', 'README.md')
         #+ '\n' +
